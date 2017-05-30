@@ -19,4 +19,6 @@ resources :carts do
   end
 end
 
+resources :cart_items
+
 end
